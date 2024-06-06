@@ -3,10 +3,10 @@
 ## 🗒️ Describe
 Images Used:
 * [mysql](https://hub.docker.com/_/mysql/) - Versão 8.0
-* [zabbix-server-mysql](https://hub.docker.com/r/zabbix/zabbix-server-mysql/) - Versão 6.0
-* [zabbix-web-apache-mysql](https://hub.docker.com/r/zabbix/zabbix-web-apache-mysql/) - Versão 6.0
-* [zabbix-web-service](https://hub.docker.com/r/zabbix/zabbix-web-service/) - Versão 6.0
-* [grafana](https://hub.docker.com/r/grafana/grafana/) - Versão 9.5.3
+* [zabbix-server-mysql](https://hub.docker.com/r/zabbix/zabbix-server-mysql/) - Versão 7.0
+* [zabbix-web-apache-mysql](https://hub.docker.com/r/zabbix/zabbix-web-apache-mysql/) - Versão 7.0
+* [zabbix-web-service](https://hub.docker.com/r/zabbix/zabbix-web-service/) - Versão 7.0
+* [grafana](https://hub.docker.com/r/grafana/grafana/) - Versão latest
 * [traefik](https://hub.docker.com/_/traefik/) - Versão latest
 
 ## ◼️ Install
